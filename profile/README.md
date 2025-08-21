@@ -1,3 +1,2 @@
 # Aquanode
-
-AI-native Cloud with better GPU supply at lower prices!
+The AI cloud marketplace that automates GPUs into cloud-ready instances!

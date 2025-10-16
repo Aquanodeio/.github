@@ -1,2 +1,2 @@
 # Aquanode
-The AI cloud marketplace that automates GPUs into cloud-ready instances!
+Unified GPU marketplace with built-in cloud tools and integrations!
